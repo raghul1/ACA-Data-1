@@ -1,0 +1,9 @@
+load \\icnas1.cc.ic.ac.uk\rr3315\ACA\Coursework1\CWwing.avl
+
+
+/Users/Raghul/Documents/Imperial/Aeronautics\ -\ 4th\ Year/ACA/avl3.35
+
+load /Users/Raghul/Documents/Imperial/Aeronautics - 4th Year/ACA/Coursework1/CWwing.avl
+
+
+w /Users/Raghul/Documents/Imperial/Aeronautics - 4th Year/ACA/Coursework1/Data/
