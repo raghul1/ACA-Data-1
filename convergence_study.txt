@@ -1,0 +1,244 @@
+*** 1 ***
+  CLtot =   0.35130
+  CDtot =   0.02324
+  CDvis =   0.01496     CDind = 0.0082804
+  CLff  =   0.35202     CDff  = 0.0079074    | Trefftz
+  CYff  =   0.00000         e =    0.9977    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   =   8
+     # Vortices =   8
+
+*** 2 ***
+ CLtot =   0.35393
+  CDtot =   0.02535
+  CDvis =   0.01688     CDind = 0.0084664
+  CLff  =   0.35467     CDff  = 0.0080214    | Trefftz
+  CYff  =   0.00000         e =    0.9984    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   =  16
+     # Vortices =  32
+
+*** 3 ***
+
+ CLtot =   0.35411
+  CDtot =   0.02509
+  CDvis =   0.01675     CDind = 0.0083427
+  CLff  =   0.35484     CDff  = 0.0080278    | Trefftz
+  CYff  =   0.00000         e =    0.9985    | Plane
+
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   =  24
+     # Vortices =  72
+
+
+*** 4 *** 
+ CLtot =   0.35416
+  CDtot =   0.02515
+  CDvis =   0.01683     CDind = 0.0083218
+  CLff  =   0.35489     CDff  = 0.0080294    | Trefftz
+  CYff  =   0.00000         e =    0.9986    | Plane
+
+Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   =  32
+     # Vortices = 128
+
+*** 5 *** 
+CLtot =   0.35421
+  CDtot =   0.02482
+  CDvis =   0.01679     CDind = 0.0080228
+  CLff  =   0.35491     CDff  = 0.0080299    | Trefftz
+  CYff  =   0.00000         e =    0.9986    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   =  40
+     # Vortices = 200
+
+*** 6 *** 
+ CLtot =   0.35417
+  CDtot =   0.02531
+  CDvis =   0.01681     CDind = 0.0085005
+  CLff  =   0.35492     CDff  = 0.0080302    | Trefftz
+  CYff  =   0.00000         e =    0.9986    | Plane
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   =  48
+     # Vortices = 288
+
+*** 7 *** 
+ CLtot =   0.35407
+  CDtot =   0.02673
+  CDvis =   0.01675     CDind = 0.0099857
+  CLff  =   0.35494     CDff  = 0.0080312    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   =  56
+     # Vortices = 392
+
+*** 8 *** 
+ CLtot =   0.35398
+  CDtot =   0.02752
+  CDvis =   0.01678     CDind = 0.0107321
+  CLff  =   0.35492     CDff  = 0.0080303    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   =  64
+     # Vortices = 512
+
+*** 9 *** 
+ CLtot =   0.35398
+  CDtot =   0.02757
+  CDvis =   0.01677     CDind = 0.0108083
+  CLff  =   0.35492     CDff  = 0.0080302    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   =  72
+     # Vortices = 648
+
+*** 10 *** 
+ CLtot =   0.35435
+  CDtot =   0.02353
+  CDvis =   0.01687     CDind = 0.0066611
+  CLff  =   0.35493     CDff  = 0.0080306    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   =  80
+     # Vortices = 800
+
+*** 11 ***
+ CLtot =   0.35395
+  CDtot =   0.02794
+  CDvis =   0.01677     CDind = 0.0111694
+  CLff  =   0.35492     CDff  = 0.0080302    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   =  88
+     # Vortices = 968
+
+*** 12 ***  
+CLtot =   0.35407
+  CDtot =   0.02656
+  CDvis =   0.01675     CDind = 0.0098148
+  CLff  =   0.35492     CDff  = 0.0080302    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   =  96
+     # Vortices =1152
+
+*** 14 *** 
+
+  CLtot =   0.35444
+  CDtot =   0.02258
+  CDvis =   0.01685     CDind = 0.0057335
+  CLff  =   0.35494     CDff  = 0.0080310    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   = 112
+     # Vortices =1568
+
+*** 16 *** 
+  CLtot =   0.35404
+  CDtot =   0.02691
+  CDvis =   0.01674     CDind = 0.0101716
+  CLff  =   0.35493     CDff  = 0.0080303    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   = 128
+     # Vortices =2048
+
+*** 20 *** 
+ CLtot =   0.35486
+  CDtot =   0.01771
+  CDvis =   0.01694     CDind = 0.0007746
+  CLff  =   0.35493     CDff  = 0.0080304    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   = 160
+     # Vortices =3200
+*** 24 *** 
+ CLtot =   0.35409
+  CDtot =   0.02617
+  CDvis =   0.01681     CDind = 0.0093626
+  CLff  =   0.35491     CDff  = 0.0080296    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   = 192
+     # Vortices =4608
+
+
+*** 24 *** 
+  CLtot =   0.35409
+  CDtot =   0.02617
+  CDvis =   0.01681     CDind = 0.0093626
+  CLff  =   0.35491     CDff  = 0.0080296    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   = 192
+     # Vortices =4608
+
+
+*** 18 ***
+  CLtot =   0.35456
+  CDtot =   0.02221
+  CDvis =   0.01685     CDind = 0.0053634
+  CLff  =   0.35503     CDff  = 0.0080350    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   = 144
+     # Vortices =2592
+
+*** 22 *** 
+  CLtot =   0.35404
+  CDtot =   0.02677
+  CDvis =   0.01676     CDind = 0.0100020
+  CLff  =   0.35492     CDff  = 0.0080298    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   = 176
+     # Vortices =3872
+
+*** 26 *** 
+ CLtot =   0.35459
+  CDtot =   0.02115
+  CDvis =   0.01685     CDind = 0.0043044
+  CLff  =   0.35496     CDff  = 0.0080319    | Trefftz
+  CYff  =   0.00000         e =    0.9987    | Plane
+
+ Configuration: Coursework Wing
+     # Surfaces =   2
+     # Strips   = 208
+     # Vortices =5408
+
+

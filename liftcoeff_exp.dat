@@ -1,0 +1,12 @@
+# Applied Computational Aerodynamics 2018-19
+# Experimental Data, Thiel and Weissinger 1947
+# NACA Technical Memorandum No. 1107 and 1126
+# Re ~ 10^6, alpha ~ 5.7°
+# y   /   c_l  / c_l * c / b   
+0.15    0.4442    0.10928
+0.35    0.4557    0.10014
+0.58    0.4455    0.08445
+0.80    0.3937    0.06069
+0.90    0.3398    0.05072
+0.95    0.2766    0.03844
+0.98    0.2009    0.02768
